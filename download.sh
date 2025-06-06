@@ -17,6 +17,7 @@ function install {
         
 
         # install pip for yt-dlp and ffmpeg for music
+        yes | pkg update
         yes | pkg upgrade
         yes | pkg install python-pip ffmpeg
         yes | pip3 install yt-dlp --upgrade
