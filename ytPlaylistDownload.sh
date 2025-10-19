@@ -1,7 +1,7 @@
 #! /bin/bash
 function progress(){
 	printf "\r"
-	printf "$1 out of $2 files processed."
+	printf "$1 out of $2 songs processed."
 }
 
 function playlistDownload {
