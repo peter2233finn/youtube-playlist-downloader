@@ -9,6 +9,7 @@ This is a simple Bash script to download **YouTube Music playlists** directly to
 - Designed for **Termux** and Android's standard music directories
 - Easily customizable to support other systems or playlist URLs
 - Will attempt not to download the same song twice (I had some issues with grepping weird URF-8 charecters here but its mostly working)
+- Menu arguements can be sent directly from command line for further integration to other scripts. Eg **./ytPlaylistDownload.sh 2** to download all music
 
 ## Requirements
 
