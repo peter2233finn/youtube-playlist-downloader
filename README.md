@@ -26,6 +26,6 @@ pkg update && pkg install yt-dlp ffmpeg
 
 ## Usage
 
-git clone https://github.com/peter2233finn/youtube-playlist-downloader/
-bash youtube-playlist-downloader/ytPlaylistDownload.sh
-(You must edit the script to add your playlists before running the second command)
+-git clone https://github.com/peter2233finn/youtube-playlist-downloader/
+-bash youtube-playlist-downloader/ytPlaylistDownload.sh
+-(You must edit the script to add your playlists before running the second command)
