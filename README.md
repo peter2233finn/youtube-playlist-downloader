@@ -20,7 +20,7 @@ This is a simple Bash script to download **YouTube Music playlists** directly to
 
 You can install dependencies in Termux with:
 
-'''bash
+
 pkg update && pkg install yt-dlp ffmpeg 
 ...or simply run the update function built into the script
 
